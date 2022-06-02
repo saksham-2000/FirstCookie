@@ -18,7 +18,7 @@ PythonProject001
 
 so this is my first time make a project using standard cookiecutter template
 
-YEAH so I have added this line here. !!!
+let us add something else now.
 
 
 * Free software: MIT license
